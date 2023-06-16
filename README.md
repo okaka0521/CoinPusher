@@ -1,2 +1,2 @@
 # CoinPusher
-ひとまず公開してみることにした
+https://okaka0521.github.io/CoinPusher/
