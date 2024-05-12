@@ -1,5 +1,5 @@
 # CoinPusher
 https://okaka0521.github.io/CoinPusher/
 
-#Unityroomでもプレイすることができます。
+# Unityroomでもプレイすることができます。
 https://unityroom.com/games/okakacoinpusher
